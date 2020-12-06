@@ -72,7 +72,7 @@ This project showcases the journey of tea on blockchain.
 
 ```
 git clone https://github.com/nikhil6418/tea-supplychain-ethereum-master
-cd coffee-supplychain-ethereum/
+cd tea-supplychain-ethereum/
 ```
 
 **Update truffle.js **
