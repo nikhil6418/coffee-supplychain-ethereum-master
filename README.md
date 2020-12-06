@@ -21,7 +21,7 @@ This project showcases the journey of tea on blockchain.
 
 #### Application Workflow Diagram
 ---
-![](screens/workflow.png)
+![](screens/workflow.jpeg)
 
 #### In this application we have Six stages
 ---
@@ -32,6 +32,8 @@ This project showcases the journey of tea on blockchain.
 4. Exporter
 5. Importer
 6. Processor
+
+![](screens/userRole.jpeg)
 
 **Admin :** Admin creates new batch which is initial stage of coffee batch.
 
@@ -99,3 +101,11 @@ truffle compile
 npm install truffle-hdwallet-provider
 truffle migrate --network development reset
 ```
+
+#### Contract Structure:
+---
+![](screens/contract1.jpeg)
+![](screens/contract2.jpeg)
+![](screens/contract3.jpeg)
+
+
